@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="flex flex-wrap justify-between">
 
           <div className="w-50 md:w-1/3 mb-6 ml-6 md:mb-0">
-            <h3 className="text-lg font-semibold mb-4">Amr Refaey</h3>
+            <h3 className="text-lg font-semibold mb-4">Amr Refaei</h3>
             <p className="mb-2">
                 <h3>A Frontend focused Web Developer building the Frontend of Websites and Web Applications that leads to the success of the overall product.</h3>
             </p>

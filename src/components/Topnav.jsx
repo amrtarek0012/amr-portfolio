@@ -20,7 +20,7 @@ const Topnav = () => {
             <Avatar img={Img} alt="avatar of Jese" />
           </span>
           <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
-            Amr Refaey
+            Amr Refaei
           </span>
         </a>
 

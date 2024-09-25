@@ -10,7 +10,7 @@ const Hero = () => {
       <div className="flex justify-center items-center h-full bg-black bg-opacity-50">
         <div className="text-center text-white">
           <Sidebar />
-          <h1 className="text-2xl md:text-6xl lg:text-6xl font-extrabold mb-4">HEY, I'M AMR REFAEY</h1>
+          <h1 className="text-2xl md:text-6xl lg:text-6xl font-extrabold mb-4">HEY, I'M AMR REFAEI</h1>
           <p className="text-lg md:text-xl max-w-2xl text-wrap mb-8">
             A dedicated web developer focused on creating and maintaining websites and applications that drive product success and deliver impactful results.
           </p>
